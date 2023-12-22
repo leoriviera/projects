@@ -19,3 +19,4 @@ To make this repo more complete, it would be helpful to
 ## To Do Ideas
 
 - A browser extension which locally recreates [GoLinks](https://www.golinks.io/)
+- Using reinforcement learning to beat Chrome's [Dino Game](chrome://dino)
