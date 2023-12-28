@@ -4,7 +4,7 @@ A home for all my side project ideas!
 
 To make this repo more complete, it would be helpful to
 
-- [ ] create a template for scoping and tracking projects
+- [ ] create a template for researching, scoping and tracking projects
 - [ ] do some sort of write-up for completed ideas
 - [ ] make a brief list of skills learnt for each project
 
@@ -20,3 +20,5 @@ To make this repo more complete, it would be helpful to
 
 - A browser extension which locally recreates [GoLinks](https://www.golinks.io/)
 - Using reinforcement learning to beat Chrome's [Dino Game](chrome://dino)
+- A personal finance dashboard, including information from pensions, investments and bank accounts, that categorises transactions and produces visualisations (including Sankey diagrams)
+- A DNS resolver and a DNS server
