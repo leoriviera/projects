@@ -22,3 +22,4 @@ To make this repo more complete, it would be helpful to
 - Using reinforcement learning to beat Chrome's [Dino Game](chrome://dino)
 - A personal finance dashboard, including information from pensions, investments and bank accounts, that categorises transactions and produces visualisations (including Sankey diagrams)
 - A DNS resolver and a DNS server
+- An open-sourced JavaScript/TypeScript playground like [RunJS](https://runjs.app/)
