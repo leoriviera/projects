@@ -23,3 +23,10 @@ To make this repo more complete, it would be helpful to
 - A personal finance dashboard, including information from pensions, investments and bank accounts, that categorises transactions and produces visualisations (including Sankey diagrams)
 - A DNS resolver and a DNS server
 - An open-sourced JavaScript/TypeScript playground like [RunJS](https://runjs.app/)
+- A blog built with Hugo (with the [Srcery theme](https://srcery.sh/)) that displays blog posts blended with other information, including
+  - `articles` saved to a particular [Pocket](https://getpocket.com/developer/) list
+  - `achievements` from [Xbox Live](https://learn.microsoft.com/en-us/gaming/gdk/_content/gc/live/concepts/xbox-services-api/live-introduction-to-xbox-live-apis)
+  - `rsvps` from [Meetup](https://www.meetup.com/api/general/) and [Luma](https://docs.lu.ma/reference/getting-started-with-your-api)
+  - `reads` from [OpenLibrary](https://openlibrary.org/dev/docs/restful_api)
+  - `music` summaries for the week from [Apple Music](https://developer.apple.com/documentation/applemusicapi/)
+  - `watches` from [Letterboxd](https://letterboxd.com/)
